@@ -1,0 +1,4 @@
+# JetBrains, aka PHPStorm, IntelliJ IDEA
+.idea/*
+.vscode/*
+.vstags
